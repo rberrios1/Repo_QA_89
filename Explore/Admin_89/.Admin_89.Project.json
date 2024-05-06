@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "fDvSTure8KZbqrZyHOeJo7",
+    "name" : "Admin_89",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-05-06T16:48:31.067Z",
+  "objectRefs" : [ ]
+}
